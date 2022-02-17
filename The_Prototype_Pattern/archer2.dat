@@ -1,0 +1,7 @@
+type:[Archer level 1]
+life: 60 
+attack: 12
+armor: 14
+speed: 9
+weapon: Bow
+range: 60

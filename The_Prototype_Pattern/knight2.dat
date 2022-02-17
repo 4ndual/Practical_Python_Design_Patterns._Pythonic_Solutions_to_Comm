@@ -1,0 +1,7 @@
+type:[Knight level 2]
+life: 60 
+attack: 30
+armor: 14
+speed: 7
+weapon: sword
+range: 1
